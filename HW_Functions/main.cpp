@@ -84,13 +84,3 @@ void main()
 	cout << "Отсортируем массив: "; cout << "\n";
 	Sort(i_arr_2, ROWS, COLS); Print(i_arr_2, ROWS, COLS);
 }
-
-
-
-
-
-
-
-
-
-
